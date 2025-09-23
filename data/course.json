@@ -1,0 +1,52 @@
+{
+  "term": "Fall",
+  "year": "2015",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "World History"
+    ],
+    [
+      "Society",
+      "Gender Studies"
+    ],
+    [
+      "Society",
+      "Women's Studies"
+    ]
+  ],
+  "legacy_uid": "910b2578-81ab-9009-67e9-4ea1333f36b2",
+  "instructors": {
+    "content": [
+      "2b8a3811-d3a2-ca98-0b6a-2964d2ef5cb5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "b6e216e2-67df-3d75-151c-2319c31cc01c",
+    "website": "21h-381j-women-and-war-in-the-20th-century-fall-2015"
+  },
+  "course_title": "Women and War in the 20th Century",
+  "course_description": "This seminar examines women's experiences during and after war, revolution, and genocide. The focus of the course is mostly on the 20th century and on North America, Europe and the Middle East.",
+  "department_numbers": [
+    "21H",
+    "WGS"
+  ],
+  "extra_course_numbers": "WGS.222J",
+  "primary_course_number": "21H.381J",
+  "course_image_thumbnail": {
+    "content": "30c376f8-ba48-7b0d-1299-de0ce995baa4",
+    "website": "21h-381j-women-and-war-in-the-20th-century-fall-2015"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "762e3a0c-f74f-4ccd-b60b-ca98ef60b534",
+  "site_short_id": "21h.381j-fall-2015",
+  "site_url_path": "courses/21h-381j-women-and-war-in-the-20th-century-fall-2015",
+  "title": "Course Metadata"
+}
